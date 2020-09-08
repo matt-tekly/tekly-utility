@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "ca.tekly.tkutility": {
+    "ca.tekly.utility": {
       "version": "file:TkUtility",
       "depth": 0,
       "source": "embedded",
