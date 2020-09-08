@@ -1,0 +1,11 @@
+{
+    "name": "ca.tekly.utility",
+    "version": "0.0.1",
+    "displayName": "Tekly Utility",
+    "description": "Utilities",
+    "unity": "2019.1",
+    "author": {
+        "name": "Matt King",
+        "email": "matt@tekly.ca"
+    }
+}
